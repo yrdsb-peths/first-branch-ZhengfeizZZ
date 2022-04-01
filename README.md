@@ -1,3 +1,3 @@
 # Git terminology, history, branching
 
-It's Friday
+It's Friday: )
